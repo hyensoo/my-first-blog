@@ -1,4 +1,18 @@
 <html>
-    <p>Hi there!</p>
-    <p>It works!</p>
+    <head>
+	<title>Django Man's blog</title>
+    </head>
+    <body>
+	<div>
+	    <h1><a href="">Django Man's blog</a></h1>
+	</div>
+
+	<div>
+	    {{posts}}
+	</div>
+
+	<div>
+	    {{posts}}
+	</div>
+    </body>
 </html>
